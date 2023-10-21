@@ -1,0 +1,322 @@
+Governorate,nationality_name,SUM total_ind
+Akkar,ethiopian,585
+Akkar,bangladeshi,90
+Akkar,egyptian,100
+Akkar,indian,5
+Akkar,iraqi,6
+Akkar,german,1
+Akkar,ghanaian,2
+Akkar,sierra_leonian,8
+Akkar,kenyan,3
+Akkar,filipino,36
+Akkar,sri_lankan,58
+Akkar,brazilian,21
+Akkar,ukrainian,27
+Akkar,romanian,2
+Akkar,cameroonian,1
+Akkar,italian,4
+Mount Lebanon,bangladeshi,21138
+Mount Lebanon,egyptian,8380
+Mount Lebanon,ethiopian,30637
+Mount Lebanon,ghanaian,1508
+Mount Lebanon,iraqi,3522
+Mount Lebanon,indian,2178
+Mount Lebanon,togolese,25
+Mount Lebanon,sudanese,7959
+Mount Lebanon,filipino,5386
+Mount Lebanon,russian,513
+Mount Lebanon,french,183
+Mount Lebanon,american,89
+Mount Lebanon,venezuelan,24
+Mount Lebanon,sri_lankan,2061
+Mount Lebanon,kenyan,1246
+Mount Lebanon,nigerian,583
+Mount Lebanon,saudi arabian,16
+Mount Lebanon,south_african,116
+Mount Lebanon,jordanian,42
+Mount Lebanon,indonesian,4
+Mount Lebanon,sierra_leonian,351
+Mount Lebanon,british,3
+Mount Lebanon,ukrainian,214
+Mount Lebanon,south korean,5
+Mount Lebanon,Thai,5
+Mount Lebanon,german,57
+Mount Lebanon,pakistani,75
+Mount Lebanon,bulgarian,5
+Mount Lebanon,paraguayan,5
+Mount Lebanon,japanese,10
+Mount Lebanon,spanish,14
+Mount Lebanon,cameroonian,628
+Mount Lebanon,algerian,6
+Mount Lebanon,Tunisian,21
+Mount Lebanon,gambian,6
+Mount Lebanon,italian,45
+Mount Lebanon,British,53
+Mount Lebanon,Italian,16
+Mount Lebanon,Jordanian,43
+Mount Lebanon,Saudi Arabian,15
+Mount Lebanon,Chinese,13
+Mount Lebanon,French,154
+Mount Lebanon,Polish,2
+Mount Lebanon,Cypriot,5
+Mount Lebanon,brazilian,12
+Mount Lebanon,portugueuse,4
+Mount Lebanon,ivorian,45
+Mount Lebanon,somali,51
+Mount Lebanon,iranian,126
+Mount Lebanon,libyan,2
+Mount Lebanon,American,32
+Mount Lebanon,Korean,33
+Mount Lebanon,kuwaiti,30
+Mount Lebanon,omani,1
+Baalbek-El Hermel,bangladeshi,569
+Baalbek-El Hermel,ethiopian,2349
+Baalbek-El Hermel,kenyan,404
+Baalbek-El Hermel,egyptian,35
+Baalbek-El Hermel,iraqi,8
+Baalbek-El Hermel,malian,2
+Baalbek-El Hermel,french,5
+Baalbek-El Hermel,sri_lankan,38
+Baalbek-El Hermel,filipino,20
+Baalbek-El Hermel,nepalese,7
+Baalbek-El Hermel,ghanaian,1
+Baalbek-El Hermel,sierra_leonian,11
+Baalbek-El Hermel,south_african,10
+Baalbek-El Hermel,swedish,6
+North,egyptian,697
+North,ethiopian,2889
+North,kenyan,86
+North,bangladeshi,269
+North,filipino,184
+North,indian,10
+North,sri_lankan,74
+North,nigerian,114
+North,ghanaian,36
+North,sudanese,46
+Beirut,togolese,42
+Beirut,egyptian,1586
+Beirut,burkinabe,108
+Beirut,ethiopian,9515
+Beirut,filipino,3279
+Beirut,kenyan,198
+Beirut,nigerian,115
+Beirut,indian,141
+Beirut,french,874
+Beirut,malagasy,125
+Beirut,bangladeshi,7423
+Beirut,sudanese,4127
+Beirut,sri_lankan,1096
+Beirut,iraqi,611
+Beirut,turkish,891
+Beirut,ukrainian,26
+Beirut,german,38
+Beirut,russian,39
+Beirut,sierra_leonian,75
+Beirut,qatari,4
+Beirut,beninese,2
+Beirut,libyan,9
+Beirut,yemeni,22
+Beirut,jordanian,2
+Beirut,portugueuse,2
+Beirut,ghanaian,29
+Beirut,danish,2
+Beirut,american,267
+Beirut,italian,97
+Beirut,belgian,11
+Beirut,british,72
+Beirut,japanese,16
+Beirut,dutch,10
+Beirut,austrian,2
+Beirut,somali,4
+Beirut,pakistani,4
+Beirut,korean,20
+Beirut,cameroonian,10
+Beirut,chinese,10
+Beirut,nepalese,23
+Beirut,madagascan,27
+Beirut,senegalese,30
+Beirut,spanish,15
+Beirut,mauritian,10
+Beirut,ivorian,3
+Beirut,eritrean,20
+Beirut,new zealand,5
+Beirut,morrocan,4
+Beirut,canadian,5
+Beirut,saudi arabian,17
+El Nabatieh,ethiopian,3473
+El Nabatieh,bangladeshi,2134
+El Nabatieh,irish,50
+El Nabatieh,congolese,8
+El Nabatieh,senegalese,24
+El Nabatieh,filipino,83
+El Nabatieh,iraqi,338
+El Nabatieh,russian,393
+El Nabatieh,egyptian,325
+El Nabatieh,sudanese,1146
+El Nabatieh,german,78
+El Nabatieh,ghanaian,265
+El Nabatieh,sierra_leonian,218
+El Nabatieh,sri_lankan,626
+El Nabatieh,kenyan,115
+El Nabatieh,ukrainian,271
+El Nabatieh,nigerian,60
+El Nabatieh,venezuelan,3
+El Nabatieh,pakistani,15
+El Nabatieh,indian,14
+El Nabatieh,malaysian,307
+El Nabatieh,dutch,5
+El Nabatieh,british,2
+El Nabatieh,saudi arabian,4
+El Nabatieh,italian,10
+El Nabatieh,iranian,14
+El Nabatieh,french,74
+El Nabatieh,brazilian,37
+El Nabatieh,bulgarian,2
+El Nabatieh,ivorian,8
+Mount Lebanon,canadian,3
+Mount Lebanon,romanian,9
+Mount Lebanon,kazakhstani,7
+Mount Lebanon,morrocan,22
+Mount Lebanon,czech,1
+Mount Lebanon,unidentified,5
+Mount Lebanon,Algerian,8
+Mount Lebanon,moldovan,4
+Mount Lebanon,Romanian,6
+Mount Lebanon,Bulgarian,5
+Mount Lebanon,belgian,6
+Mount Lebanon,Bellarussian,19
+Mount Lebanon,German,14
+North,german,2
+North,russian,17
+Baalbek-El Hermel,indian,5
+North,iraqi,441
+North,romanian,6
+North,nepalese,1
+North,dutch,6
+North,armenian,1
+North,ukrainian,2
+North,jordanian,67
+Mount Lebanon,emirati,21
+Mount Lebanon,congolese,6
+Mount Lebanon,beninese,45
+Mount Lebanon,malagasy,46
+Mount Lebanon,Australian,13
+Mount Lebanon,Uzbek,3
+Mount Lebanon,maltese,1
+Mount Lebanon,senegalese,19
+Mount Lebanon,Kuwaiti,1
+Mount Lebanon,nepalese,17
+Mount Lebanon,Japanese,3
+Mount Lebanon,Ivorian,5
+Mount Lebanon,Beninese,13
+Mount Lebanon,Belgian,10
+Mount Lebanon,Dutch,50
+Mount Lebanon,Canadian,6
+North,pakistani,3
+North,chadian,6
+El Nabatieh,morrocan,3
+El Nabatieh,polish,1
+El Nabatieh,canadian,5
+El Nabatieh,south_african,3
+El Nabatieh,burkinabe,25
+El Nabatieh,yemeni,17
+El Nabatieh,tunisian,5
+El Nabatieh,romanian,2
+El Nabatieh,spanish,1
+El Nabatieh,unidentified,27
+El Nabatieh,togolese,165
+El Nabatieh,beninese,110
+El Nabatieh,cameroonian,53
+El Nabatieh,mexican,5
+El Nabatieh,kuwaiti,4
+Mount Lebanon,malian,2
+South,bangladeshi,3855
+South,ethiopian,6678
+South,ghanaian,599
+South,sri_lankan,226
+South,filipino,202
+South,ukrainian,79
+South,egyptian,1132
+South,spanish,7
+South,german,154
+South,kenyan,109
+South,russian,160
+South,french,512
+South,canadian,2
+South,american,124
+South,sierra_leonian,160
+South,Iraqi,6
+South,Afghanistan,2
+South,sudanese,1303
+South,unidentified,5
+South,Guatemalain,1
+South,Thai,1
+Mount Lebanon,colombian,1
+Mount Lebanon,qatari,6
+Mount Lebanon,madagascan,17
+El Nabatieh,indonesian,157
+El Nabatieh,algerian,2
+El Nabatieh,serbian,30
+El Nabatieh,paraguayan,9
+Bekaa,ethiopian,2646
+Bekaa,kenyan,371
+Bekaa,bangladeshi,667
+Bekaa,jordanian,4
+Bekaa,yemeni,40
+South,bulgarian,1
+South,iraqi,299
+South,greece,1
+South,ivorian,143
+South,tunisian,21
+South,jordanian,132
+South,liberian,1
+South,iranian,5
+South,indian,32
+South,turkish,1
+South,nepalese,25
+South,romanian,8
+South,italian,1
+South,pakistani,8
+South,korean,1
+South,nigerian,20
+South,gabonese,1
+South,senegalese,19
+South,british,5
+South,congolese,5
+South,bellarussian,1
+South,saudi arabian,5
+South,finnish,301
+South,kuwaiti,2
+South,south korean,300
+South,brazilian,1
+South,south_african,10
+South,cameroonian,1
+South,malaysian,10
+South,guinean,10
+South,burkinabe,1
+South,australian,3
+South,danish,3
+South,algerian,4
+South,morrocan,17
+North,cameroonian,1
+North,morrocan,1
+North,turkish,6
+North,algerian,3
+North,senegalese,1
+North,omani,20
+North,indonesian,5
+North,sierra_leonian,53
+North,iranian,1
+Bekaa,sri_lankan,202
+Bekaa,egyptian,375
+Bekaa,indian,58
+Bekaa,filipino,62
+Bekaa,sierra_leonian,23
+Bekaa,nigerian,3
+Bekaa,iraqi,152
+Bekaa,chinese,16
+Bekaa,Korean,18
+Bekaa,brazilian,2
+Bekaa,Senegalese,4
+Bekaa,sudanese,32
+North,beninois,1
