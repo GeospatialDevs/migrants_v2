@@ -1,0 +1,27 @@
+.leaflet-popup-content-wrapper {
+                    max-height: 250px; /* Set your desired maximum height here */
+                    overflow-y: auto; /* Enable vertical scrollbar when content exceeds max height */
+                }
+
+                ::-webkit-scrollbar {
+                    width: 4px;
+                    height: 5px;
+                    border-left: 0;
+                    margin-top: 20px;
+                    border-radius: 25px;
+                    /*background: rgba(0, 0, 0, 0.1);*/
+                    background: whitesmoke;
+                    right: 0;
+/*                    padding: 4px;*/
+                }
+
+                ::-webkit-scrollbar-thumb {
+                    background: rgb(31, 149, 215);
+                    border-radius: 25px;
+                    height: 5px;
+
+                }
+
+                .leaflet-popup-content {
+                    padding: 4px;
+                }
